@@ -1,0 +1,154 @@
+/* Шрифты для всех страниц */
+body {
+    font-family: sans-serif;
+}
+
+/* Класс для параграфов */
+.text {
+    font-size: 16px;
+    line-height: 26px;
+    color: #1F3F68;
+}
+
+/* Класс для заголовка на главной странице */
+.title_h1 {
+    font-size: 64px;
+    color: #1F3F68;
+}
+
+/* Класс для заголовка на странице contacts */
+.contacts_title {
+    font-weight: 500;
+    font-size: 44px;
+    text-align: center;
+}
+
+/* Класс для заголовков h3 */
+.title_h3{
+    font-size: 36px;
+    text-align: center;
+}
+
+/* Класс для заголовков h4 */
+.title_h4{
+    font-size: 20px;
+    line-height: 30px;
+    color: #1F3F68;
+}
+
+
+/* Класс для полей ввода */
+.input {
+    font-family: sans-serif;
+    border: 1px solid #356EAD;
+    box-sizing: border-box;
+    border-radius: 10px;
+    opacity: 0.4;
+}
+
+/* Класс для кнопки отправки на странице contacts */
+.submit_button {
+    background: #5A98D0;
+    box-shadow: 5px 20px 50px rgba(16, 112, 177, 0.2);
+    border-radius: 10px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
+
+.text_fields_height{
+    line-height: 0px;
+}
+
+/* Стили для повторяющихся элементов */
+
+.header {
+
+}
+
+.footer {
+
+}
+
+.footer_top {
+
+}
+
+.footer_top_text {
+
+}
+
+.footer_bottom {
+
+}
+
+.footer_info {
+    
+}
+
+.footer_copyright {
+
+}
+
+/* Стили для страницы index */
+
+.index_top {
+
+}
+
+.index_top_content {
+
+}
+
+.index_top_text {
+
+}
+
+.index_main {
+
+}
+
+.index_main_content {
+
+}
+
+.index_main_card {
+
+}
+
+.index_main_add_text {
+
+}
+
+/* Стили для страницы contacts */
+
+.top_cont {
+
+}
+
+.top_cont_text {
+
+}
+
+.contact_us {
+
+}
+
+.contact_info {
+
+}
+
+.contact_info_img {
+
+}
+
+.contact_form {
+
+}
+
+.contact_map {
+
+}
